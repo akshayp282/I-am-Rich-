@@ -1,10 +1,7 @@
-# I am Rich Flutter
+# I am Rich
 
 Have you heard about an app that had the name I am rich which was priced at around $999 and literally did nothing other than showing a pic of a ruby. 
 I've tried to replicate the same using flutter and it's the first app I've made using flutter.
-
-### Here's a preview
-![](images/Screenshot_20201004-203651.png)
 
 ## Getting Started
 
