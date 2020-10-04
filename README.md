@@ -1,10 +1,12 @@
-# i_am_rich
+# I am Rich Flutter
 
-I am Rich
+Have you heard about an app that had the name I am rich which was priced at around $999 and literally did nothing other than showing a pic of a ruby. 
+I've tried to replicate the same using flutter and it's the first app I've made using flutter.
+
+### Here's a preview
+![](images/Screenshot_20201004-203651.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
